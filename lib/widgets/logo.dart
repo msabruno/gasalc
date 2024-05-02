@@ -8,7 +8,7 @@ class Logo extends StatelessWidget {
     return Column(
       children: [  
         const SizedBox(
-            height: 80,
+            height: 40,
           ),
           Image.asset(
             'assets/logo.png',
